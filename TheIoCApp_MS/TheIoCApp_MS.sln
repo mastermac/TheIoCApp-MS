@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheIoCApp_MS", "TheIoCApp_MS\TheIoCApp_MS.csproj", "{83EC5D82-0284-463A-A470-58539819942B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83EC5D82-0284-463A-A470-58539819942B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83EC5D82-0284-463A-A470-58539819942B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83EC5D82-0284-463A-A470-58539819942B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83EC5D82-0284-463A-A470-58539819942B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4345FFDD-2883-48CF-BFC6-00D9C90977A2}
+	EndGlobalSection
+EndGlobal

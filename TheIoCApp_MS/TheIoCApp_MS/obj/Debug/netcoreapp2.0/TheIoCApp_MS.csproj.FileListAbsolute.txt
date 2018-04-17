@@ -1,0 +1,11 @@
+C:\Users\shubham_gupta5\Source\Repos\TheIoCApp-MS\TheIoCApp_MS\TheIoCApp_MS\bin\Debug\netcoreapp2.0\TheIoCApp_MS.deps.json
+C:\Users\shubham_gupta5\Source\Repos\TheIoCApp-MS\TheIoCApp_MS\TheIoCApp_MS\bin\Debug\netcoreapp2.0\TheIoCApp_MS.runtimeconfig.json
+C:\Users\shubham_gupta5\Source\Repos\TheIoCApp-MS\TheIoCApp_MS\TheIoCApp_MS\bin\Debug\netcoreapp2.0\TheIoCApp_MS.runtimeconfig.dev.json
+C:\Users\shubham_gupta5\Source\Repos\TheIoCApp-MS\TheIoCApp_MS\TheIoCApp_MS\bin\Debug\netcoreapp2.0\TheIoCApp_MS.dll
+C:\Users\shubham_gupta5\Source\Repos\TheIoCApp-MS\TheIoCApp_MS\TheIoCApp_MS\bin\Debug\netcoreapp2.0\TheIoCApp_MS.pdb
+C:\Users\shubham_gupta5\Source\Repos\TheIoCApp-MS\TheIoCApp_MS\TheIoCApp_MS\obj\Debug\netcoreapp2.0\TheIoCApp_MS.csprojResolveAssemblyReference.cache
+C:\Users\shubham_gupta5\Source\Repos\TheIoCApp-MS\TheIoCApp_MS\TheIoCApp_MS\obj\Debug\netcoreapp2.0\TheIoCApp_MS.csproj.CoreCompileInputs.cache
+C:\Users\shubham_gupta5\Source\Repos\TheIoCApp-MS\TheIoCApp_MS\TheIoCApp_MS\obj\Debug\netcoreapp2.0\TheIoCApp_MS.AssemblyInfoInputs.cache
+C:\Users\shubham_gupta5\Source\Repos\TheIoCApp-MS\TheIoCApp_MS\TheIoCApp_MS\obj\Debug\netcoreapp2.0\TheIoCApp_MS.AssemblyInfo.cs
+C:\Users\shubham_gupta5\Source\Repos\TheIoCApp-MS\TheIoCApp_MS\TheIoCApp_MS\obj\Debug\netcoreapp2.0\TheIoCApp_MS.dll
+C:\Users\shubham_gupta5\Source\Repos\TheIoCApp-MS\TheIoCApp_MS\TheIoCApp_MS\obj\Debug\netcoreapp2.0\TheIoCApp_MS.pdb
